@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d360e2f-f28c-43c8-8a19-a206867dc9a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank1/integration/Bank1AccountSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank1/integration/Bank1Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank2/integration/Bank2AccountBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank2/integration/Bank2AccountSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank2/integration/Bank2AccountTransaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/bank1/integration/Bank1AccountSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/bank1/integration/Bank1Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/bank2/integration/Bank2AccountBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/bank2/integration/Bank2AccountSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/bank2/integration/Bank2AccountTransaction$TRANSACTION_TYPES.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/bank2/integration/Bank2AccountTransaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/com.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/ChallengeBankMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/adapter/BankAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/adapter/impl/BankAdapterImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/controller/BankController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/model/BalanceBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/model/TransactionBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/service/BankService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/test/adpter/BankAdapterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/utils/PrintUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/com/pyyne/challenge/bank/utils/Transactions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/2/1/21b689455da0260df9e4e71a816df80c2ac3bf3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/2/2/2263f45b000f712592b1dfdc9f6150b3fea2ee82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/2/9/29667df746743df25b6fead455877ebb35721828" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/3/4/34919bbd0311292ea25e42cd45dfdc3175e1ddee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/9/4/946921eb1186c1d6749880bcb3b43ba5c8362636" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/a/2/a22268782021069dc162b3811c3f8a16910e7cce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/a/e/aeb3dbb66c339711233441a722a48fa6292af8b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/b/6/b61ebb60609eb861fb6c64ccd41ddc88a357cf9a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/bank1/integration/Bank1AccountSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/bank1/integration/Bank1Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/bank2/integration/Bank2AccountBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/bank2/integration/Bank2AccountSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/bank2/integration/Bank2AccountTransaction$TRANSACTION_TYPES.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/bank2/integration/Bank2AccountTransaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne-challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/ChallengeBankMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/adapter/BankAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/adapter/impl/BankAdapterImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/controller/BankController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/model/BalanceBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/model/TransactionBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/service/BankService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/test/adpter/BankAdapterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/utils/PrintUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyyne-challenge/com/pyyne/challenge/bank/utils/Transactions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne-challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/ChallengeBankMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/adapter/BankAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/adapter/impl/BankAdapterImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/controller/BankController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/model/BalanceBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/model/TransactionBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/service/BankService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/test/adpter/BankAdapterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/utils/PrintUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyyne/challenge/bank/utils/Transactions.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="27huI3Rne4nAcdTXIMGydvsyooB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pyyne.challenge.bank.ChallengeBankMain" />
+      <module name="pyyne-challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d360e2f-f28c-43c8-8a19-a206867dc9a0" name="Changes" comment="" />
+      <created>1649784556159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649784556159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
